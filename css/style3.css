@@ -1,0 +1,57 @@
+#titulo1{
+    margin-top:-10px;
+}
+#hr{
+    margin-top: 30px;
+}
+
+#escolha1{ /*Primeira opção*/
+    color: blue;
+    font-size: 18px;
+
+
+}
+
+#texto1{
+    margin-top: -18px;
+
+}
+
+#escolha2{/*Segunda opção*/
+    color: green;
+
+}
+
+#texto2{
+    margin-top: -18px;
+
+}
+#escolha3{ /*Terceira opção*/
+    color: red;
+    font-size: 28px;
+
+}
+#texto3{
+    margin-top: -28px;
+
+}
+#escolha4{ /*Quarta opção*/
+    color: blue;  
+    font-size: 40px;
+    text-transform: uppercase;
+    
+ 
+}
+#texto4{
+    margin-top:-38px;
+
+}
+#escolha5{ /*Quinta opção*/
+    color: blue;
+
+}
+#texto5{
+    margin-top: -20px;
+    font-size: 30px;
+
+}
