@@ -3,4 +3,9 @@
     height: 225px;
     border: 5px solid red;
     margin-right: 20px;    
+    float: left;/*Colocar a foto a esquerda*/
+}
+
+#texto{
+    margin-top: -0px;
 }
