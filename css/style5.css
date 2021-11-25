@@ -1,12 +1,12 @@
 #bloco{ /*Bloco principal*/
     background-color: rebeccapurple ;
     width: 1000px;
-    height: 100px;
+    /*height: 100px;*/
     padding: 10px;
     align-items: center;
-    text-align: center;
-    justify-content: center;
-    position: absolute;
+    text-align: center; /*Alinha a foto do gato no centro*/
+    /*justify-content: center;*/
+    position: absolute; /*Para pegar o posição toda*/
     margin: auto;
     right: 0;
     bottom: 5;
@@ -34,17 +34,23 @@
 #paragrafo1{
     padding: 10px;
     font-size: 14px;
-    
+    text-align: left;    
 }
 
 
 #interno2{
-    float: left;
-    margin: auto;
-    right: 20px;
-    left: 20px;
-    margin-bottom: 20px;
     background-color: gray;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    float: left;
     color: white;
+
+    /*margin: auto;
+    right: 20px;
+    left: 20px;*/
+    
+   
+    
+    
     
 }
