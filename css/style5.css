@@ -1,0 +1,50 @@
+#bloco{ /*Bloco principal*/
+    background-color: rebeccapurple ;
+    width: 1000px;
+    height: 100px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    margin: auto;
+    right: 0;
+    bottom: 5;
+    left: 0;    
+}
+
+#interno1{ /*Primeiro Bloco Interno*/
+    background-color: gray;
+    /*margin: auto;*/    
+    right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;   
+    float: left;
+    color: white;
+}
+#fotoBloco1{ /*Primeira foto do Bloco interno 1 */
+    height: 225px;
+    width: 225px;
+}
+#texto1{/*Texto H3, do primeiro bloco*/
+    align-items: center;
+    font-family: sans-serif;
+    text-transform: uppercase;    
+}
+#paragrafo1{
+    padding: 10px;
+    font-size: 14px;
+    
+}
+
+
+#interno2{
+    float: left;
+    margin: auto;
+    right: 20px;
+    left: 20px;
+    margin-bottom: 20px;
+    background-color: gray;
+    color: white;
+    
+}
