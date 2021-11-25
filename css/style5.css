@@ -9,7 +9,7 @@
     position: absolute; /*Para pegar o posição toda*/
     margin: auto;
     right: 0;
-    bottom: 5;
+    bottom: 5;    
     left: 0;    
 }
 
@@ -21,6 +21,7 @@
     margin-top: 20px;   
     float: left;
     color: white;
+    margin-left: 20px;
 }
 #fotoBloco1{ /*Primeira foto do Bloco interno 1 */
     height: 225px;
@@ -29,12 +30,14 @@
 #texto1{/*Texto H3, do primeiro bloco*/
     align-items: center;
     font-family: sans-serif;
-    text-transform: uppercase;    
+    text-transform: uppercase;
+    margin-top: 0px;       
 }
 #paragrafo1{
     padding: 10px;
     font-size: 14px;
-    text-align: left;    
+    text-align: left; 
+   
 }
 
 
@@ -44,13 +47,7 @@
     margin-top: 20px;
     float: left;
     color: white;
-
-    /*margin: auto;
-    right: 20px;
-    left: 20px;*/
-    
-   
-    
+    margin-left: 20px  
     
     
 }
