@@ -4,5 +4,13 @@ background-color: blueviolet;
 width: 1024px;
 margin-top: 30px;
 margin: auto;
+}
 
+#fotos{
+    border-radius: 50%;    
+
+}
+
+#blocointerno{
+    margin-bottom: 50px;
 }
