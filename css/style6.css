@@ -1,13 +1,16 @@
 #blocoPrincipal{ /*Div principal*/
-background-color: blueviolet;
+
 
 width: 1024px;
 margin-top: 30px;
 margin: auto;
+
 }
 
 #fotos{
-    border-radius: 50%;    
+    border-radius: 50%;
+    margin-right: 100px;  
+    float: left;  
 
 }
 
