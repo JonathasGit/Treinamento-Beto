@@ -1,0 +1,23 @@
+#TabelaPrincipal{    
+    text-align: center;
+   
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 2rem 3rem;  
+    
+}
+
+#CabeçalhoDaTabela{ /*Aqui e o nosso TH da tabela*/
+border: 1px solid;
+padding: 5px;
+background-color: rgb(168, 218, 213);
+
+
+}
+
+#ConteudoDaTabela{ /*Aqui e o nosso TD da tabela*/
+    border: 1px solid;
+    padding: 5px;
+    background-color: rgb(240, 248, 255);
+
+}
