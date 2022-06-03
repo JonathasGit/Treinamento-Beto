@@ -9,8 +9,11 @@ Resultado:
 
 
 <h3>Desafio 2</h3> <br>
+
 Resultado:
 ![image](https://user-images.githubusercontent.com/57269883/171964206-d457fb62-76ad-4f7d-b273-d53698c6fc5a.png)
+
+(OBS: Zoom em 67% para ver a página toda)
 
 <h3>Desafio 3</h3> <br>
 <h3>Desafio 4</h3> <br>
